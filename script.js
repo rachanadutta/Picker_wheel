@@ -55,7 +55,7 @@ function spin() {
     spinSound.currentTime = 0; // Reset sound
     
     spinning = false;
-    const degrees = (startAngle * 180) / Math.PI ;
+    const degrees = (startAngle * 180) / Math.PI +90;
     const index = Math.floor(((360 - (degrees % 360)) / (360 / items.length))) % items.length;
     showResult(items[index]);
     launchConfetti();
