@@ -14,18 +14,9 @@ It allows users to input options, spin the wheel, and randomly select one — pe
 - Spin the wheel with smooth animations  
 - Random winner is highlighted  
 
-### 📱 Responsive Design  
-- Built with **Tailwind CSS**  
-- Works seamlessly on **desktop and mobile**  
-
 ### 📋 Option Management  
 - Add or remove items instantly  
 - Wheel updates in real-time  
-
-### 💾 Local Storage Support  
-- Saves your options even after refreshing  
-- No backend required  
-
 ---
 
 ## 🛠️ **Technologies Used**  
