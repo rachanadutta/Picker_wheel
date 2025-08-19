@@ -1,41 +1,37 @@
-🎡 Picker Wheel (Front-End Project)
+# 🎡 **Picker Wheel (Front-End Project)**  
 
-This is a fun, interactive picker wheel built using HTML, Tailwind CSS, and JavaScript.
-It allows users to input options, spin the wheel, and randomly select one — perfect for decision-making games, team selections, or fun activities.
+This is a fun, interactive, mobile-responsive picker wheel built using **HTML, Tailwind CSS, and JavaScript**.  
+It allows users to input options, spin the wheel, and randomly select one — perfect for decision-making games, team selections, or fun activities.  
 
-🔗 Deployed Link: https://rachanadutta.github.io/Picker_wheel
+🔗 **Deployed Link**: https://rachanadutta.github.io/Picker_wheel)  
 
-🌟 Key Features
+---
 
-🎯 Interactive Wheel
+## 🌟 **Key Features**  
 
-Users can add custom options
+### 🎯 Interactive Wheel  
+- Add custom options dynamically  
+- Spin the wheel with smooth animations  
+- Random winner is highlighted  
 
-Spin the wheel and get a random selection
+### 📱 Responsive Design  
+- Built with **Tailwind CSS**  
+- Works seamlessly on **desktop and mobile**  
 
-Smooth spin animation with a highlighted winner
+### 📋 Option Management  
+- Add or remove items instantly  
+- Wheel updates in real-time  
 
-📱 Responsive Design
+### 💾 Local Storage Support  
+- Saves your options even after refreshing  
+- No backend required  
 
-Built using Tailwind CSS for full responsiveness
+---
 
-Works seamlessly on desktop
+## 🛠️ **Technologies Used**  
+- 🧱 **HTML5**  
+- 🎨 **Tailwind CSS**  
+- ⚙️ **JavaScript (Vanilla)**  
+- 🗃️ **localStorage**  
 
-📋 Option Management
-
-Add or remove items dynamically
-
-Wheel updates instantly with new options
-
-💾 Local Storage Support
-
-Saves your options even after refreshing the page
-
-No backend required
-
-🛠️ Technologies Used
-
-🧱 HTML5
-🎨 Tailwind CSS
-⚙️ JavaScript (Vanilla)
-🗃️ localStorage
+---
